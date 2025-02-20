@@ -1,6 +1,6 @@
 # Forest Fire Spread Simulation
 
-This program
+This program simulated the spread of forest fire depending on forest density.
 
 ## Language(s)
 
