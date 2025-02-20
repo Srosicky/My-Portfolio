@@ -8,7 +8,7 @@ Java
 
 ## Description
 
-By utilizing a number of classes (Card, Deck, Hand, and Player), the main class - BlackJackOdds - runs a set number of games between the player and dealer. Over the course of the games, varying strategies are tested. Primarily, the stand value of the player is changed (soft stand v.s. hard stand). After the games have been completed and outcomes determined, the program analyzes the probability of winning for both the player and dealer. 
+By utilizing a number of classes (Card, Deck, Hand, and Player), the main class - BlackJackOdds - runs a set number of games between the player and dealer. Over the course of the games, varying strategies are tested. Primarily, the stand value of the player is changed (soft stand v.s. hard stand). After the games have been completed and outcomes determined, the program analyzes the probability of winning for both the player and dealer across all games.
 
 ## Getting Started
 
