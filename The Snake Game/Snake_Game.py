@@ -1,11 +1,3 @@
-"""
-Sophia Rosicky
-COMP 1353
-April 10, 2024
-Snake Game Project
-File Name: Rosicky_Project_1
-"""
-
 from DoublyLinkedList2 import DoublyLinkedList
 import random
 import time
