@@ -16,6 +16,12 @@ The user can switch between different modes (sand, water, and floor) and draw pa
 
 This program can be run in any text editor that supports .py files using the Sand_Game.py file. The DUDraw library must be imported.
 
+When playing:
+- press s key for sand mode
+- press w key for water mode
+- press f key for floor mode
+
+
 ## Authors
 
 Sophia Rosicky
