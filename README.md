@@ -1,6 +1,6 @@
 # My Programming Portfolio
 
-Welcome to my portfolio! I use this space to upload my completed programming projects. 
+Welcome to my portfolio!
 
 ## Description
 
